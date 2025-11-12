@@ -72,5 +72,3 @@ Explore my latest projects, creative experiments, and development journey.
 </p>
 
 ---
-
-⭐ *"Code with logic. Design with purpose. Learn without limits."*  
