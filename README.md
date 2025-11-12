@@ -34,14 +34,17 @@ I love building dynamic web applications, experimenting with modern frameworks, 
 ---
 
 ## 💡 Featured Projects  
-- 🗨️ **CodeHelio** — Real-time Chat Application using OOP concepts and file-based data storage  
+- 🗨️ **Ch-Chat** — Real-time Chat Application using OOP concepts and file-based data storage  
 - 🏨 **Room Reservation & Restaurant Admin System** — Laravel-based system with smart module ideas like AI recommendations and AR/VR tours  
 
 ---
+## 🌐 My Portfolio  
+🔗 Visit: [sahangeesara.netlify.app](https://sahangeesara.netlify.app/)  
+Explore my latest projects, designs, and experiments in one place.
 
 ## 📫 Connect with Me  
-- 💼 LinkedIn: [Sahan Geesara](https://www.linkedin.com/in/sahan-geesara)  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [Sahan Geesara](www.linkedin.com/in/sahan-geesara-samaravickrama-83b5001aa)  
+- 📧 Email: geesarasahan0123@gmail.com 
 - 🌍 Location: Polonnaruwa, Sri Lanka  
 
 ---
