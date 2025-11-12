@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Sahan Geesara</span></h1>
-<h3 align="center">💻 Back-End Developer | PHP | Laravel | MySQL | Angular | Vue.js</h3>
+<h3 align="center">💻 Fullstack Developer | PHP | Laravel | MySQL | Angular | Vue.js | Java </h3>
 
 <p align="center">
   <a href="https://sahangeesara.netlify.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-brightgreen?style=for-the-badge"></a>
-  <a href="mailto:geesarasahan0123@gmail.com"><img src="https://img.shields.io/badge/📧 Email-Me-blue?style=for-the-badge"></a>
+  <a href="geesarasahan0123@gmail.com"><img src="https://img.shields.io/badge/📧 Email-Me-blue?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/sahan-geesara-samaravickrama-83b5001aa"><img src="https://img.shields.io/badge/💼 LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
