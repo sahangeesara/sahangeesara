@@ -15,7 +15,7 @@
 - 💼 Currently working at **Nextmatricslab**  
 - 🧠 Self-learning **Full Stack Development** and **OOP in PHP**  
 - ⚙️ Experienced with **Laravel**, **MySQL**, and **Angular**  
-- 💬 Exploring **AI-powered modules**, **real-time chat apps**, and **Spring Boot**  
+- 💬 Exploring **AI-powered modules**, **real-time chat apps**, and **Laravel**  
 - 🧩 Passionate about **clean code**, **backend logic**, and **scalable systems**
 
 ---
