@@ -20,22 +20,22 @@ I love building dynamic web applications, experimenting with modern frameworks, 
 ## 🧰 Tech Stack  
 
 **Languages:**  
-`PHP` | `JavaScript` | `HTML` | `CSS`
+`PHP` | `JavaScript` | `HTML` | `CSS` | `JAVA` 
 
 **Frameworks & Libraries:**  
-`Laravel` | `Vue.js` | `Angular (CoreUI)` | `Bootstrap`
+`Laravel` | `Spring Boot` | `Vue.js` | `Angular` | `Bootstrap`
 
 **Database:**  
-`MySQL`
+`MySQL` | `MsSQL`
 
 **Tools & Platforms:**  
-`GitHub` | `Visual Studio Code` | `NetBeans` | `XAMPP`
+`GitHub` | `GitLab` | `Visual Studio Code` | `NetBeans` | `XAMPP`| `Jira` | `PhpStorm` | `Intelli J` | `Postman`
 
 ---
 
 ## 💡 Featured Projects  
 - 🗨️ **Ch-Chat** — Real-time Chat Application using OOP concepts and file-based data storage  
-- 🏨 **Room Reservation & Restaurant Admin System** — Laravel-based system with smart module ideas like AI recommendations and AR/VR tours  
+- 🏨 **Room Reservation Admin System** — Laravel-based system with smart module ideas like AI recommendations and AR/VR tours  
 
 ---
 ## 🌐 My Portfolio  
