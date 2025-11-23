@@ -1,169 +1,30 @@
-<!-- README for GitHub profile of Sahan Geesara -->
+<h1 align="center">Hi 👋, I'm Sahan Geesara</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahan99827&label=Profile%20views&color=0e75b6&style=flat" alt="sahan99827" /> </p>
 
-# 👋 Hi, I'm Sahan Geesara
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahan99827" alt="sahan99827" /></a> </p>
 
-![Streak Image](/mnt/data/755babc0-3ae0-428f-950c-cd1566791379.png)
+- 🌱 I’m currently learning **Spring Boot, Laravel,**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Fullstack+Developer;PHP+%7C+Laravel+Expert;Angular+%7C+Vue.js+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+- 💬 Ask me about **PHP,JAVA, Angular, VueJS, React**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahangeesara&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sahangeesara?label=Followers&style=social" alt="followers" />
+- 📫 How to reach me **geesarasahan0123@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sahan_geesara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahan_geesara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahan-geesara-samaravickrama-83b5001aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahan-geesara-samaravickrama-83b5001aa/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sahan.gsamaravicrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sahan.gsamaravicrama" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.facebook.com/sahan.gsamaravicrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/sahan.gsamaravicrama" height="30" width="40" /></a>
+<a href="https://medium.com/@geesarasahan0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geesarasahan0123" height="30" width="40" /></a>
 </p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahan99827&show_icons=true&locale=en&layout=compact" alt="sahan99827" /></p>
 
-## 🚀 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahan99827&show_icons=true&locale=en" alt="sahan99827" /></p>
 
-```javascript
-const sahan = {
-    location: "Sri Lanka 🇱🇰",
-    education: "BIT Diploma Level Graduate 🎓",
-    currentRole: "Fullstack Developer @ Nextmatricslab 💼",
-    learning: ["Full Stack Development", "OOP in PHP", "System Architecture"],
-    interests: ["Clean Code", "Backend Logic", "Scalable Systems"],
-    currentStreak: "87 contributions | Longest Streak: 5 days",
-    motto: "Building elegant solutions to complex problems ✨"
-};
-```
-
----
-
-## 🔥 Animated Highlights (what's moving)
-
-* Typing effect (above) uses `readme-typing-svg` for animated header text.
-* The streak image at the top is your uploaded snapshot and gives a visual cue of activity.
-* You can add an animated GIF (for example build demos or UI walkthrough) by committing the GIF into the repo and linking it like `![demo](/path/to/demo.gif)`.
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Frameworks & Libraries
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white) ![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
-
-### Tools
-
-Git, GitHub, GitLab, VS Code, PhpStorm, IntelliJ, NetBeans, Postman, Jira, XAMPP
-
----
-
-## 💡 Featured Projects
-
-### 🗨️ Ch-Chat
-
-**Real-time Chat Application** – OOP-based with file storage and real-time features.
-
-**Tech:** PHP, OOP, JavaScript, WebSockets
-
----
-
-### 🏨 Room Reservation Admin System
-
-**Hotel & Restaurant Management** – Laravel admin system with AI recommendation ideas and smart room features.
-
-**Tech:** Laravel, MySQL, Vue.js, AI/ML
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahangeesara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahangeesara&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahangeesara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahangeesara&theme=redical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sahangeesara\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4\&column=7)
-
----
-
-## 💼 Current Focus
-
-```mermaid
-mindmap
-  root((Sahan's Focus))
-    Full Stack Development
-      Laravel Mastery
-      API Design
-      Database Optimization
-    Modern Frontend
-      Vue.js 3
-      Angular Components
-      Responsive Design
-    Innovation
-      AI Integration
-      Real-time Systems
-      Scalable Architecture
-    Best Practices
-      Clean Code
-      Design Patterns
-      Testing
-```
-
----
-
-## 🌐 Portfolio & Connect
-
-**Portfolio:** [https://sahangeesara.netlify.app](https://sahangeesara.netlify.app)
-
-**LinkedIn:** [https://linkedin.com/in/sahangeesara](https://linkedin.com/in/sahangeesara)
-
-**Twitter:** [https://twitter.com/sahangeesara](https://twitter.com/sahangeesara)
-
-**Email:** mailto:sahangeesara@example.com
-
----
-
-## 🔧 How to use this README (quick)
-
-1. Copy this `README.md` into your `sahangeesara` GitHub profile repository (the repo named exactly `sahangeesara`).
-2. Commit any media you want to show (GIFs, screenshots) into the repo (e.g., `assets/demo.gif`) and reference them with relative paths.
-3. To keep contribution/activity sections updated, enable your GitHub profile repo to show the activity graph or use community actions that update the `README.md` via scheduled GitHub Actions.
-
-If you want, I can also:
-
-* Add a demo animated GIF (record your UI) and insert it into the README.
-* Create a GitHub Action workflow file to update the `Contribution Activity` section automatically.
-
----
-
-## ⚡ Fun Fact
-
-```
-while(alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-```
-
----
-
-*Thanks for visiting!*
-
-<!-- End of README -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahan99827&" alt="sahan99827" /></p>
