@@ -141,7 +141,7 @@ mindmap
 ## 🔧 How to use this README (quick)
 
 1. Copy this `README.md` into your `sahangeesara` GitHub profile repository (the repo named exactly `sahangeesara`).
-2. Commit any media you want to show (GIFs, screenshots) into the repo (e.g. `assets/demo.gif`) and reference them with relative paths.
+2. Commit any media you want to show (GIFs, screenshots) into the repo (e.g., `assets/demo.gif`) and reference them with relative paths.
 3. To keep contribution/activity sections updated, enable your GitHub profile repo to show the activity graph or use community actions that update the `README.md` via scheduled GitHub Actions.
 
 If you want, I can also:
