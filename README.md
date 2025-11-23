@@ -147,7 +147,7 @@ mindmap
 If you want, I can also:
 
 * Add a demo animated GIF (record your UI) and insert it into the README.
-* Create a GitHub Action workflow file to automatically update the `Contribution Activity` section.
+* Create a GitHub Action workflow file to update the `Contribution Activity` section automatically.
 
 ---
 
