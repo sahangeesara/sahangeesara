@@ -1,6 +1,10 @@
+<!-- README for GitHub profile of Sahan Geesara -->
+
 <div align="center">
 
 # 👋 Hi, I'm Sahan Geesara
+
+![Streak Image](/mnt/data/755babc0-3ae0-428f-950c-cd1566791379.png)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Fullstack+Developer;PHP+%7C+Laravel+Expert;Angular+%7C+Vue.js+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 
@@ -27,107 +31,55 @@ const sahan = {
 };
 ```
 
-<div align="center">
+---
 
-### 🔥 Current Streak Stats
+## 🔥 Animated Highlights (what's moving)
 
-```
-╔════════════════════════════════════════════════════╗
-║  📊 87 Total Contributions (Jan 7, 2024 - Present) ║
-║  🔥 Current Streak: 1 day (Nov 22)                 ║
-║  🏆 Longest Streak: 5 days (Nov 8 - Nov 12)        ║
-╚════════════════════════════════════════════════════╝
-```
-
-</div>
+* Typing effect (above) uses `readme-typing-svg` for animated header text.
+* The streak image at the top is your uploaded snapshot and gives a visual cue of activity.
+* You can add an animated GIF (for example build demos or UI walkthrough) by committing the GIF into the repo and linking it like `![demo](/path/to/demo.gif)`.
 
 ---
 
 ## 🧰 Tech Stack
 
-<div align="center">
+### Languages
 
-### 💬 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Frameworks & Libraries
 
-### 🧱 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Databases
 
-### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white) ![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### Tools
 
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
+Git, GitHub, GitLab, VS Code, PhpStorm, IntelliJ, NetBeans, Postman, Jira, XAMPP
 
 ---
 
 ## 💡 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
 ### 🗨️ Ch-Chat
-**Real-time Chat Application**
 
-```diff
-+ OOP principles & file-based storage
-+ Encapsulation, inheritance, polymorphism
-+ Modern real-time messaging features
-+ Clean architecture pattern
-```
+**Real-time Chat Application** – OOP-based with file storage and real-time features.
 
 **Tech:** PHP, OOP, JavaScript, WebSockets
 
-</td>
-<td width="50%">
+---
 
-### 🏨 Room Reservation System
-**Hotel & Restaurant Management**
+### 🏨 Room Reservation Admin System
 
-```diff
-+ Laravel-based admin system
-+ AI-powered recommendations
-+ Smart room control integration
-+ AR/VR virtual tours
-```
+**Hotel & Restaurant Management** – Laravel admin system with AI recommendation ideas and smart room features.
 
 **Tech:** Laravel, MySQL, Vue.js, AI/ML
 
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -145,17 +97,11 @@ const sahan = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sahangeesara&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=sahangeesara\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4\&column=7)
 
 ---
 
 ## 💼 Current Focus
-
-<div align="center">
 
 ```mermaid
 mindmap
@@ -178,42 +124,34 @@ mindmap
       Testing
 ```
 
-</div>
-
 ---
 
 ## 🌐 Portfolio & Connect
 
-<div align="center">
+**Portfolio:** [https://sahangeesara.netlify.app](https://sahangeesara.netlify.app)
 
-### 🌍 Visit My Portfolio
-**[sahangeesara.netlify.app](https://sahangeesara.netlify.app/)**
+**LinkedIn:** [https://linkedin.com/in/sahangeesara](https://linkedin.com/in/sahangeesara)
 
-### 📫 Let's Connect
+**Twitter:** [https://twitter.com/sahangeesara](https://twitter.com/sahangeesara)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahangeesara)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahangeesara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahangeesara@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahangeesara.netlify.app/)
-
-</div>
+**Email:** mailto:sahangeesara@example.com
 
 ---
 
-## 📈 Contribution Activity
+## 🔧 How to use this README (quick)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+1. Copy this `README.md` into your `sahangeesara` GitHub profile repository (the repo named exactly `sahangeesara`).
+2. Commit any media you want to show (GIFs, screenshots) into the repo (e.g. `assets/demo.gif`) and reference them with relative paths.
+3. To keep contribution/activity sections updated, enable your GitHub profile repo to show the activity graph or use community actions that update the `README.md` via scheduled GitHub Actions.
 
-<div align="center">
+If you want, I can also:
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* Add a demo animated GIF (record your UI) and insert it into the README.
+* Create a GitHub Action workflow file to automatically update the `Contribution Activity` section.
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
 ```
 while(alive) {
@@ -226,10 +164,6 @@ while(alive) {
 
 ---
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+*Thanks for visiting!*
 
-**💙 Thank you for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+<!-- End of README -->
