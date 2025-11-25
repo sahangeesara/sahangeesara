@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on **[https://sahangeesara.netlify.app/](https://sahangeesara.netlify.app/)**
 
-- 📄 Know about my experiences **[https://www.canva.com/design/DAFSw6YH5t4/iXq6VVwgBmN_QcZxWwi4bA/edit](https://www.canva.com/design/DAFSw6YH5t4/iXq6VVwgBmN_QcZxWwi4bA/edit)**
+- 📄 Know about my experiences **[https://www.canva.com/design/DAFSw6YH5t4/iXq6VVwgBmN_QcZxWwi4bA/edit?utm_content=DAFSw6YH5t4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFSw6YH5t4/iXq6VVwgBmN_QcZxWwi4bA/edit?utm_content=DAFSw6YH5t4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
