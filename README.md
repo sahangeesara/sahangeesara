@@ -51,9 +51,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahan99827&show_icons=true&locale=en" alt="sahan99827" /></p>
 
-### 🔥 GitHub Streak
-
+🔥 GitHub Streak  
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahan99827&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
