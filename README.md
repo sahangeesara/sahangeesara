@@ -53,6 +53,8 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahan99827&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sahan99827&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 
 
