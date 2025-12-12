@@ -47,13 +47,13 @@
 🗄️ Databases & Tools
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/></a> <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a> <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahan99827&show_icons=true&locale=en&layout=compact" alt="sahan99827" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahan99827&show_icons=true&locale=en" alt="sahan99827" /></p>
-
-🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sahan99827&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahan99827&show_icons=true&locale=en&layout=compact" alt="sahan99827 Top Languages" width="300"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=sahan99827&show_icons=true&locale=en" alt="sahan99827 Stats" width="400"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=sahan99827&theme=dark&hide_border=true" alt="GitHub Streak" width="300"/>
+</p>
 
 
 
