@@ -2,8 +2,6 @@
 
 ### An experienced Full Stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahan99827&label=Profile%20views&color=0e75b6&style=flat" alt="sahan99827" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahan99827" alt="sahan99827" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sahan_geesara" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_geesara?logo=twitter&style=for-the-badge" alt="sahan_geesara" /></a> </p>
