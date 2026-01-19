@@ -50,7 +50,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahan99827&show_icons=true&locale=en" alt="sahan99827" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahan99827&" alt="sahan99827" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahan99827" alt="sahan99827" /></p>
 
 
 
