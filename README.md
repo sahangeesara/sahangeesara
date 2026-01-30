@@ -2,7 +2,9 @@
 
 ### An experienced Full Stack developer
 
-![Profile Trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahan99827&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahan99827&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahan99827&layout=compact&theme=onedark)
+
 
 <p align="left"> <a href="https://twitter.com/sahan_geesara" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_geesara?logo=twitter&style=for-the-badge" alt="sahan_geesara" /></a> </p>
 
