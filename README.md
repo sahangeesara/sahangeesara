@@ -2,8 +2,7 @@
 
 ### An experienced Full Stack developer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahan99827&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Profile Trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahan99827&theme=onedark)
 
 <p align="left"> <a href="https://twitter.com/sahan_geesara" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_geesara?logo=twitter&style=for-the-badge" alt="sahan_geesara" /></a> </p>
 
