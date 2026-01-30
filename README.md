@@ -2,7 +2,6 @@
 
 ### An experienced Full Stack developer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahan99827&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahan99827&layout=compact&theme=onedark)
 
 
